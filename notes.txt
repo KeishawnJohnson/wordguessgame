@@ -1,0 +1,7 @@
+create array of names
+
+create function that pulls random index from array
+
+pull characters through a loop for the word chosen in the array
+
+compare letter inputs to letters in word .toLowerCase
