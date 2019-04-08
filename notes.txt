@@ -5,3 +5,20 @@ create function that pulls random index from array
 pull characters through a loop for the word chosen in the array
 
 compare letter inputs to letters in word .toLowerCase
+
+general rough thinking:
+if user guess equals any character from loop then replace character with user guess 
+if not then replace guess log with user guess 
+
+use loop to create an array of letters then use for each to scan and compare each letter to user guess
+OMG IT WORKED DFJHALKVJBRIVBSDFLVBASRIGBALIDBGAIWUEVB
+
+replacing dashes with letters rough thinking:
+create an array for each dash
+create a function that replaces each dash with users correct guess
+
+create array for dashes
+display dashe array
+consistently update dash array with function
+
+if userguess = letters then replace that index in dashes array then display
